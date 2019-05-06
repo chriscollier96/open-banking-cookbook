@@ -9,3 +9,5 @@ These are example PingAccess groovy rule scripts that enforce MTLS between the T
 ## PingFederate Open Banking Request Object Claims Extractor Adapter
 
 This is an example PingFederate custom adapter required to support extraction of the openbanking_intent_id from OIDC/OAuth request objects, created by TPPs, for use in the policy tree
+
+## Chris to create a new branch for OpenID Foundation conformance suite v 3.0.1
